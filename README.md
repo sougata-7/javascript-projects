@@ -1,2 +1,2 @@
 # javascript-projects
-Author:Sougata
+Author:Saugata Chatterjee
